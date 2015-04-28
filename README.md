@@ -24,7 +24,7 @@ wget -qO- https://toolbelt.heroku.com/install-ubuntu.sh | sh
 
 git remote add heroku git@heroku.com:your-app.git
  -or-
-heroku git:remote -a your-web-link
+heroku git:remote -a shrouded-oasis-4528
 
 
 

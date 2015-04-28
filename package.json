@@ -10,7 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "hapi": "^7.5.0",
-    "path": "^0.4.9"
+    "path": "^0.4.9",
+    "grunt-browserify": "^2.1.4"
   },
   "devDependencies": {
     "browserify": "^4.2.3",
